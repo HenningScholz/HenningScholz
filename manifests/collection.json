@@ -1,0 +1,13 @@
+{
+  "id" : "https://HenningScholz.github.io/HenningScholz/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in HenningScholz/HenningScholz project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://HenningScholz.github.io/HenningScholz/manifests/manifest.json",
+    "label" : "Den Haag"
+  } ]
+}
